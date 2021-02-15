@@ -877,8 +877,8 @@ searchSites = {
     543: ('Hot Crazy Mess', 'https://hotcrazymess.com', '/video/', 26),
     544: ('NF Busty', 'https://nfbusty.com', '/video/', 26),
     545: ('That Sitcom Show', 'https://thatsitcomshow.com', '/video/', 26),
-    546: ('FuckedHard18', 'http://fuckedhard18.com', '/membersarea/search.php?st=advanced&site[]=5&qall='),
-    547: ('MassageGirls18', 'http://massagegirls18.com', '/membersarea/search.php?st=advanced&site[]=4&qall='),
+    546: ('FuckedHard18', 'http://fuckedhard18.com', '/membersarea/search.php?st=advanced&site[]=5&qall=', 52),
+    547: ('MassageGirls18', 'http://massagegirls18.com', '/membersarea/search.php?st=advanced&site[]=4&qall=', 52),
     548: ('BellaPass', 'https://www.bellapass.com', '/search.php?query=', 27),
     549: ('Bryci', 'https://www.bryci.com', '/search.php?query=', 27),
     550: ('Katie Banks', 'https://www.katiebanks.com', '/search.php?query=', 27),
@@ -1060,10 +1060,10 @@ searchSites = {
     726: ('Czech Toilets', 'https://czechtoilets.com', '/tour/search/?q=', 47),
     727: ('Czech Twins', 'https://czechtwins.com', '/tour/search/?q=', 47),
     728: ('Czech Wife Swap', 'https://czechwifeswap.com', '/tour/search/?q=', 47),
-    729: ('ArchAngel', 'https://www.archangelvideo.com', '/tour/search.php?query='),
-    730: ('We Are Hairy', 'https://www.wearehairy.com', '/search/?query='),
-    731: ('Love Her Feet', 'https://www.loveherfeet.com', '/tour/search.php?query='),
-    732: ('MomPOV', 'http://www.mompov.com', '/tour/?s='),
+    729: ('ArchAngel', 'https://www.archangelvideo.com', '/tour/search.php?query=', 48),
+    730: ('We Are Hairy', 'https://www.wearehairy.com', '/search/?query=', 49),
+    731: ('Love Her Feet', 'https://www.loveherfeet.com', '/tour/search.php?query=', 50),
+    732: ('MomPOV', 'http://www.mompov.com', '/tour/?s=', 51),
     733: ('Property Sex', 'https://www.propertysex.com', 'https://site-api.project1service.com', 104),
     734: (),
     735: ('Fucked and Bound', 'http://www.kink.com', '/search?channelIds=fuckedandbound&q=', 25),
@@ -1072,12 +1072,12 @@ searchSites = {
     738: ('Girls Gone Pink', 'https://www.mofos.com', 'https://site-api.project1service.com', 104),
     739: ('Real Slut Party', 'https://www.mofos.com', 'https://site-api.project1service.com', 104),
     740: ('Mofos Lab', 'https://www.mofos.com', 'https://site-api.project1service.com', 104),
-    741: ('Straplezz', 'https://straplezz.com', '/updates/'),
-    742: ('LittleCaprice', 'https://www.littlecaprice-dreams.com', '/?s='),
-    743: ('WowGirls', 'https://www.wowgirlsblog.com', '/?s='),
-    744: ('VIPissy', 'https://www.vipissy.com', '/updates?search='),
-    745: ('GirlsOutWest', 'https://tour.girlsoutwest.com', '/trailers/'),
-    746: ('Girls Rimming', 'https://www.girlsrimming.com', '/tour/trailers/'),
+    741: ('Straplezz', 'https://straplezz.com', '/updates/', 53),
+    742: ('LittleCaprice', 'https://www.littlecaprice-dreams.com', '/?s=', 54),
+    743: ('WowGirls', 'https://www.wowgirlsblog.com', '/?s=', 55),
+    744: ('VIPissy', 'https://www.vipissy.com', '/updates?search=', 56),
+    745: ('GirlsOutWest', 'https://tour.girlsoutwest.com', '/trailers/', 57),
+    746: ('Girls Rimming', 'https://www.girlsrimming.com', '/tour/trailers/', 58),
     747: ('Gangbang Creampie', 'https://gangbangcreampie.com', '/tour/search.php?query='),
     749: ('Show My BF', 'https://tour.naughtyamerica.com', 'https://i6p9q9r18e-3.algolianet.com/1/indexes/*/queries', 1),
     748: ('DadCrush', 'https://www.dadcrush.com', '/movies', 105),
@@ -1829,50 +1829,6 @@ def getProviderFromSiteNum(siteNum):
         # VirtualRealPorn
         if siteNum == 342:
             provider = siteVirtualReal
-
-        # ArchAngel
-        elif siteNum == 729:
-            provider = siteArchAngel
-
-        # We Are Hairy
-        elif siteNum == 730:
-            provider = siteWeAreHairy
-
-        # Love Her Feet
-        elif siteNum == 731:
-            provider = siteLoveHerFeet
-
-        # MomPOV
-        elif siteNum == 732:
-            provider = siteMomPOV
-
-        # FuelVirtual
-        elif (546 <= siteNum <= 547):
-            provider = networkFuelVirtual
-
-        # Straplezz
-        elif siteNum == 741:
-            provider = siteStraplezz
-
-        # LittleCaprice
-        elif siteNum == 742:
-            provider = siteLittleCaprice
-
-        # WowGirls
-        elif siteNum == 743:
-            provider = siteWowGirls
-
-        # VIPissy
-        elif siteNum == 744:
-            provider = siteVIPissy
-
-        # GirlsOutWest
-        elif siteNum == 745:
-            provider = siteGirlsOutWest
-
-        # Girls Rimming
-        elif siteNum == 746:
-            provider = siteGirlsRimming
 
         # Gangbang Creampie
         elif siteNum == 747:
