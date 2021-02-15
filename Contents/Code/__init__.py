@@ -86,7 +86,7 @@ class PhoenixAdultAgent(Agent.Movies):
         if siteNum is not None:
             search = PAsearchData.SearchData(media, searchSettings['searchTitle'], searchSettings['searchDate'], filepath, filename)
 
-            provider = PAsiteList.getProviderFromSiteNum(siteNum)
+            provider = searchSettings['provider']
             if provider is not None:
                 providerName = getattr(provider, '__name__')
                 Log('Provider: %s' % providerName)
