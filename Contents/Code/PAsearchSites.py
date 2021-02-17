@@ -44,7 +44,7 @@ def getProviderById(providerId):
     return provider
 
 
-def getProvider(siteNum):
+def getProviderBySiteNum(siteNum):
     providerId = getProviderId(siteNum)
     return getProviderById(providerId)
 
@@ -141,7 +141,7 @@ def getSearchSettings(mediaTitle):
             result['siteName'] = site
             result['searchTitle'] = searchTitle
             result['searchDate'] = searchDate
-            result['provider'] = getProvider(siteNum)
+            result['provider'] = getProviderBySiteNum(siteNum)
 
     return result
 
