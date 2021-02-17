@@ -663,7 +663,7 @@ searchSites = {
     329: ('Throated', 'https://www.blowpass.com', '/en/search/throated/scene/', 12),
     330: ('Nuru Massage', 'https://www.fantasymassage.com', '/en/search/', 12),
     331: (),
-    332: ('DDF Babes', 'https://ddfnetwork.com', '/videos/freeword/', 15),
+    332: ('DDF Babes', 'https://ddfnetwork.com', '/videos/freeword/', 143),
     333: ('SexyHub', 'https://www.sexyhub.com', 'https://site-api.project1service.com', 104),
     334: ('Dane Jones', 'https://www.sexyhub.com', 'https://site-api.project1service.com', 104),
     335: ('Fitness Rooms', 'https://www.sexyhub.com', 'https://site-api.project1service.com', 104),
@@ -673,7 +673,7 @@ searchSites = {
     339: ('MomXXX', 'https://www.sexyhub.com', 'https://site-api.project1service.com', 104),
     340: ('FakeHub', 'https://www.fakehub.com', 'https://site-api.project1service.com', 104),
     341: ('Big Cock Bully', 'https://tour.naughtyamerica.com', 'https://i6p9q9r18e-3.algolianet.com/1/indexes/*/queries', 1),
-    342: ('VirtualRealPorn', 'https://virtualrealporn.com', '/vr-porn-video/'),
+    342: ('VirtualRealPorn', 'https://virtualrealporn.com', '/vr-porn-video/', 30),
     343: ('Analized', 'https://analized.com', '/1/search/', 10),
     344: ('James Deen', 'https://jamesdeen.com', '/1/search/', 10),
     345: ('Twisted Visual', 'https://twistedvisual.com', '/1/search/', 10),
@@ -764,13 +764,13 @@ searchSites = {
     430: ('BlacksOnBoys', 'https://www.dogfartnetwork.com', '/tour/search.php?search=', 13),
     431: ('GloryholesAndHandjobs', 'https://www.dogfartnetwork.com', '/tour/search.php?search=', 13),
     432: ('Jules Jordan', 'https://www.julesjordan.com', '/trial/search.php?query=', 14),
-    433: ('DDFNetwork', 'https://ddfnetwork.com', '/videos/freeword/', 15),
-    434: ('Sandys Fantasies', 'https://ddfnetwork.com', '/videos/freeword/', 15),
-    435: ('Cherry Jul', 'https://ddfnetwork.com', '/videos/freeword/', 15),
-    436: ('Eve Angel Official', 'https://ddfnetwork.com', '/videos/freeword/', 15),
-    437: ('Sex Video Casting', 'https://ddfnetwork.com', '/videos/freeword/', 15),
-    438: ('Hairy Twatter', 'https://ddfnetwork.com', '/videos/freeword/', 15),
-    439: ('DDF Xtreme', 'https://ddfnetwork.com', '/videos/freeword/', 15),
+    433: ('DDFNetwork', 'https://ddfnetwork.com', '/videos/freeword/', 143),
+    434: ('Sandys Fantasies', 'https://ddfnetwork.com', '/videos/freeword/', 143),
+    435: ('Cherry Jul', 'https://ddfnetwork.com', '/videos/freeword/', 143),
+    436: ('Eve Angel Official', 'https://ddfnetwork.com', '/videos/freeword/', 143),
+    437: ('Sex Video Casting', 'https://ddfnetwork.com', '/videos/freeword/', 143),
+    438: ('Hairy Twatter', 'https://ddfnetwork.com', '/videos/freeword/', 143),
+    439: ('DDF Xtreme', 'https://ddfnetwork.com', '/videos/freeword/', 143),
     440: ('DDF Busty', 'https://ddfbusty.com', '/videos/freeword/', 15),
     441: ('House of Taboo', 'https://houseoftaboo.com', '/videos/freeword/', 15),
     442: ('Euro Girls on Girls', 'https://eurogirlsongirls.com', '/videos/freeword/', 15),
@@ -1322,10 +1322,10 @@ searchSites = {
     988: ('Melone Challenge', 'https://melonechallenge.com', '/', 131),
     989: ('Holly Randall', 'https://hollyrandall.com', '/search.php?query=', 132),
     990: ('In The Crack', 'https://inthecrack.com', '/Collections/Name/', 133),
-    991: ('Angela White', 'http://angelawhite.com', '/tour/search?query='),
-    992: ('Cumbizz', 'https://www.cumbizz.com', '/film/'),
-    993: ('Pornstar Platinum', 'https://www.pornstarplatinum.com', '/tour/index.php?search='),
-    994: ('Woodman Casting X', 'https://www.woodmancastingx.com', '/search?query='),
+    991: ('Angela White', 'http://angelawhite.com', '/tour/search?query=', 134),
+    992: ('Cumbizz', 'https://www.cumbizz.com', '/film/', 135),
+    993: ('Pornstar Platinum', 'https://www.pornstarplatinum.com', '/tour/index.php?search=', 136),
+    994: ('Woodman Casting X', 'https://www.woodmancastingx.com', '/search?query=', 137),
     995: ('FamilySwapXXX', 'https://familyswap.xxx', '/video/watch/', 26),
     996: ('GirlsOnlyPorn', 'https://girlsonlyporn.com', '/video/watch/', 26),
     997: ('TeamSkeet X BAEB', 'https://www.teamskeet.com', '/movies', 105),
@@ -1343,18 +1343,18 @@ searchSites = {
     1009: ('TeamSkeet X OG', 'https://www.teamskeet.com', '/movies', 105),
     1010: ('TeamSkeet X Reislin', 'https://www.teamskeet.com', '/movies', 105),
     1011: ('TeamSkeet X SpankMonster', 'https://www.teamskeet.com', '/movies', 105),
-    1012: ('Porn Mega Load', 'https://www.pornmegaload.com', '/hd-porn-scenes/'),
-    1013: ('Naughty Mag', 'https://www.naughtymag.com', '/amateur-videos/'),
-    1014: ('XL Girls', 'https://www.xlgirls.com', '/bbw-videos/'),
-    1015: ('Bootylicious Mag', 'https://www.bootyliciousmag.com', '/big-booty-videos/'),
-    1016: ('50 Plus MILFS', 'https://www.50plusmilfs.com', '/xxx-milf-videos/'),
-    1017: ('60 Plus MILFS', 'https://www.60plusmilfs.com', '/xxx-granny-videos/'),
-    1018: ('18 Eighteen', 'https://www.18eighteen.com', '/xxx-teen-videos/'),
-    1019: ('Big Boob Bundle', 'https://www.bigboobbundle.com', '/videos/'),
-    1020: ('Leg Sex', 'https://www.legsex.com', '/foot-fetish-videos/'),
-    1021: ('Scoreland', 'https://www.scoreland.com', '/big-boob-videos/'),
-    1022: ('TwoTGirls', 'https://twotgirls.com', '/videos?query='),
-    1023: ('Sicflics', 'https://www.sicflics.com', '/search/'),
+    1012: ('Porn Mega Load', 'https://www.pornmegaload.com', '/hd-porn-scenes/', 138),
+    1013: ('Naughty Mag', 'https://www.naughtymag.com', '/amateur-videos/', 138),
+    1014: ('XL Girls', 'https://www.xlgirls.com', '/bbw-videos/', 138),
+    1015: ('Bootylicious Mag', 'https://www.bootyliciousmag.com', '/big-booty-videos/', 138),
+    1016: ('50 Plus MILFS', 'https://www.50plusmilfs.com', '/xxx-milf-videos/', 138),
+    1017: ('60 Plus MILFS', 'https://www.60plusmilfs.com', '/xxx-granny-videos/', 138),
+    1018: ('18 Eighteen', 'https://www.18eighteen.com', '/xxx-teen-videos/', 138),
+    1019: ('Big Boob Bundle', 'https://www.bigboobbundle.com', '/videos/', 138),
+    1020: ('Leg Sex', 'https://www.legsex.com', '/foot-fetish-videos/', 138),
+    1021: ('Scoreland', 'https://www.scoreland.com', '/big-boob-videos/', 138),
+    1022: ('TwoTGirls', 'https://twotgirls.com', '/videos?query=', 139),
+    1023: ('Sicflics', 'https://www.sicflics.com', '/search/', 140),
     1024: ('AlettaOceanLive', 'https://www.alettaoceanlive.com', '/sapi/', 141),
     1025: ('FallInLovia', 'https://www.fallinlovia.com', '/sapi/', 141),
     1026: ('RomiRain', 'https://www.romirain.com', '/sapi/', 141),
@@ -1371,24 +1371,24 @@ searchSites = {
     1037: ('GinaGerson', 'https://www.ginagerson.xxx', '/sapi/', 141),
     1038: ('ValeNappi', 'https://www.valenappi.com', '/sapi/', 141),
     1039: ('VinaSkyXXX', 'https://www.vinaskyxxx.com', '/sapi/', 141),
-    1040: ('Culioneros', 'http://www.pornditos.com', '/t1/videos/0_'),
-    1041: ('Sexo en Public', 'http://www.pornditos.com', '/t1/videos/0_'),
-    1042: ('Mi Primer Porno', 'http://www.pornditos.com', '/t1/videos/0_'),
-    1043: ('Por el Chiquito', 'http://www.pornditos.com', '/t1/videos/0_'),
-    1044: ('Chicas de Porno', 'http://www.pornditos.com', '/t1/videos/0_'),
-    1045: ('Tetangas Espanolas', 'http://www.pornditos.com', '/t1/videos/0_'),
-    1046: ('Costenas Locas', 'http://www.pornditos.com', '/t1/videos/0_'),
-    1047: ('Nalgas Grandes', 'http://www.pornditos.com', '/t1/videos/0_'),
-    1048: ('Tetonas Locas', 'http://www.pornditos.com', '/t1/videos/0_'),
-    1049: ('Chiva Culiona', 'http://www.pornditos.com', '/t1/videos/0_'),
-    1050: ('Cuchi Mami', 'http://www.pornditos.com', '/t1/videos/0_'),
+    1040: ('Culioneros', 'http://www.pornditos.com', '/t1/videos/0_', 142),
+    1041: ('Sexo en Public', 'http://www.pornditos.com', '/t1/videos/0_', 142),
+    1042: ('Mi Primer Porno', 'http://www.pornditos.com', '/t1/videos/0_', 142),
+    1043: ('Por el Chiquito', 'http://www.pornditos.com', '/t1/videos/0_', 142),
+    1044: ('Chicas de Porno', 'http://www.pornditos.com', '/t1/videos/0_', 142),
+    1045: ('Tetangas Espanolas', 'http://www.pornditos.com', '/t1/videos/0_', 142),
+    1046: ('Costenas Locas', 'http://www.pornditos.com', '/t1/videos/0_', 142),
+    1047: ('Nalgas Grandes', 'http://www.pornditos.com', '/t1/videos/0_', 142),
+    1048: ('Tetonas Locas', 'http://www.pornditos.com', '/t1/videos/0_', 142),
+    1049: ('Chiva Culiona', 'http://www.pornditos.com', '/t1/videos/0_', 142),
+    1050: ('Cuchi Mami', 'http://www.pornditos.com', '/t1/videos/0_', 142),
     1051: ('Bruce and Morgan', 'https://www.bruceandmorgan.net', '/sapi/', 141),
     1052: ('Busted', 'https://www.cherrypimps.com', '/search.php?query=', 83),
     1053: ('Cheese.XXX', 'https://www.cherrypimps.com', '/search.php?query=', 83),
     1054: ('Femme', 'https://www.cherrypimps.com', '/search.php?query=', 83),
     1055: ('Fresh', 'https://www.cherrypimps.com', '/search.php?query=', 83),
     1056: ('Taboo', 'https://www.cherrypimps.com', '/search.php?query=', 83),
-    1057: ('PornWorld', 'https://pornworld.com', '/search?query='),
+    1057: ('PornWorld', 'https://pornworld.com', '/search?query=', 143),
     1058: ('Vicki Valkyrie', 'https://www.vickivalkyrie.com', '/sapi/', 141),
     1059: ('Busted Babysitters', 'https://www.mofos.com', 'https://site-api.project1service.com', 104),
     1060: ('Ebony Sex Tapes', 'https://www.mofos.com', 'https://site-api.project1service.com', 104),
@@ -1396,179 +1396,179 @@ searchSites = {
     1062: ('Project RV', 'https://www.mofos.com', 'https://site-api.project1service.com', 104),
     1063: ('The Sex Scout', 'https://www.mofos.com', 'https://site-api.project1service.com', 104),
     1064: ('Pornstar Vote', 'https://www.mofos.com', 'https://site-api.project1service.com', 104),
-    1065: ('Mormon Girlz', 'https://mormongirlz.com', '/?s='),
-    1066: ('PurgatoryX', 'https://www.purgatoryx.com', 'https://tour.purgatoryx.com/search/'),
-    1067: ('Plumper Pass', 'https://plumperpass.com', '/tour/search.php?q='),
-    1068: ('FTVMilfs', 'https://ftvmilfs.com', '/update/s-'),
-    1069: ('FTVGirls', 'https://www.ftvgirls.com', '/update/s-'),
-    1070: ('Jacquie Et Michel TV', 'https://www.jacquieetmicheltv.net', '/en/recherche/'),
-    1071: ('Data18 Content', 'http://www.data18.com', '/search/?k='),
-    1072: ('Penthouse Gold', 'https://penthousegold.com', '/search.php?query='),
-    1073: ('Data18 Movies', 'http://www.data18.com', '/search/?k='),
-    1074: ('WakeUpNFuck', 'https://www.wakeupnfuck.com', '/search?query='),
+    1065: ('Mormon Girlz', 'https://mormongirlz.com', '/?s=', 144),
+    1066: ('PurgatoryX', 'https://www.purgatoryx.com', 'https://tour.purgatoryx.com/search/', 145),
+    1067: ('Plumper Pass', 'https://plumperpass.com', '/tour/search.php?q=', 146),
+    1068: ('FTVMilfs', 'https://ftvmilfs.com', '/update/s-', 147),
+    1069: ('FTVGirls', 'https://www.ftvgirls.com', '/update/s-', 147),
+    1070: ('Jacquie Et Michel TV', 'https://www.jacquieetmicheltv.net', '/en/recherche/', 148),
+    1071: ('Data18 Content', 'http://www.data18.com', '/search/?k=', 149),
+    1072: ('Penthouse Gold', 'https://penthousegold.com', '/search.php?query=', 150),
+    1073: ('Data18 Movies', 'http://www.data18.com', '/search/?k=', 151),
+    1074: ('WakeUpNFuck', 'https://www.wakeupnfuck.com', '/search?query=', 152),
     1075: ('Dillion Nation', 'https://dillionation.com', '/sapi/', 141),
-    1076: ('SexMex', 'https://sexmex.xxx', '/tour/search.php?query='),
-    1077: ('Explicite Art', 'https://www.explicite-art.com', '/visitor/search/videos/'),
-    1078: ('Black PayBack', 'https://blackpayback.com', '/tour/trailers/'),
-    1079: ('Sunny Lane Live', 'https://sunnylanelive.com', '/videos/'),
-    1080: ('FAKings', 'https://www.fakings.com', '/en/buscar/'),
-    1081: ('Newbies Or So They Say', 'https://www.fakings.com', '/en/buscar/'),
-    1082: ('Quarantine Stories', 'https://www.fakings.com', '/en/buscar/'),
-    1083: ('Horsedicks', 'https://www.fakings.com', '/en/buscar/'),
-    1084: ('FREE Pussy Day', 'https://www.fakings.com', '/en/buscar/'),
-    1085: ('Parejas.NET', 'https://www.fakings.com', '/en/buscar/'),
-    1086: ('Curvy Girls', 'https://www.fakings.com', '/en/buscar/'),
-    1087: ('Next Door Girl', 'https://www.fakings.com', '/en/buscar/'),
-    1088: ('FAKings PornStars', 'https://www.fakings.com', '/en/buscar/'),
-    1089: ('Busted', 'https://www.fakings.com', '/en/buscar/'),
-    1090: ('Fuck Them', 'https://www.fakings.com', '/en/buscar/'),
-    1091: ('My First Anal', 'https://www.fakings.com', '/en/buscar/'),
-    1092: ('MILF Club', 'https://www.fakings.com', '/en/buscar/'),
-    1093: ('Arnaldo Series', 'https://www.fakings.com', '/en/buscar/'),
-    1094: ('Free Couples', 'https://www.fakings.com', '/en/buscar/'),
-    1095: ('FAKings Castings', 'https://www.fakings.com', '/en/buscar/'),
-    1096: ('First FAKings', 'https://www.fakings.com', '/en/buscar/'),
-    1097: ('Talk To Them', 'https://www.fakings.com', '/en/buscar/'),
-    1098: ('I Sell My Girlfriend', 'https://www.fakings.com', '/en/buscar/'),
-    1099: ('NERD BUSTER', 'https://www.fakings.com', '/en/buscar/'),
-    1100: ('Swingers Life', 'https://www.fakings.com', '/en/buscar/'),
-    1101: ('Trans FAKings', 'https://www.fakings.com', '/en/buscar/'),
-    1102: ('Very Voyeur', 'https://www.fakings.com', '/en/buscar/'),
-    1103: ('FAKings Academy', 'https://www.fakings.com', '/en/buscar/'),
-    1104: ('The Naughty Bet', 'https://www.fakings.com', '/en/buscar/'),
-    1105: ('Ainaras Diary', 'https://www.fakings.com', '/en/buscar/'),
-    1106: ('FAKins Wild Party', 'https://www.fakings.com', '/en/buscar/'),
-    1107: ('My First DP', 'https://www.fakings.com', '/en/buscar/'),
-    1108: ('Innocent 18', 'https://www.fakings.com', '/en/buscar/'),
-    1109: ('Fuck Me Fool', 'https://www.fakings.com', '/en/buscar/'),
-    1110: ('Perverting Couples', 'https://www.fakings.com', '/en/buscar/'),
-    1111: ('Big Rubber Cocks', 'https://www.fakings.com', '/en/buscar/'),
-    1112: ('Virtual Reality', 'https://www.fakings.com', '/en/buscar/'),
-    1113: ('The Anatomical Sulphate', 'https://www.fakings.com', '/en/buscar/'),
-    1114: ('Exchange Student Girls', 'https://www.fakings.com', '/en/buscar/'),
-    1115: ('Im a Webcam Girl', 'https://www.fakings.com', '/en/buscar/'),
-    1116: ('Sick Videos', 'https://www.fakings.com', '/en/buscar/'),
-    1117: ('FAKings Slutwalk', 'https://www.fakings.com', '/en/buscar/'),
-    1118: ('Blowjob Lessons', 'https://www.fakings.com', '/en/buscar/'),
-    1119: ('Behind FAKings', 'https://www.fakings.com', '/en/buscar/'),
-    1120: ('Novatas O Eso Dicen', 'https://www.fakings.com', '/en/buscar/'),
-    1121: ('Historias de Cuarentena', 'https://www.fakings.com', '/en/buscar/'),
-    1122: ('Rabos de Caballo', 'https://www.fakings.com', '/en/buscar/'),
-    1123: ('El Día del Coño GRATIS', 'https://www.fakings.com', '/en/buscar/'),
-    1124: ('Chicas Curvis', 'https://www.fakings.com', '/en/buscar/'),
-    1125: ('Es Tu Vecina', 'https://www.fakings.com', '/en/buscar/'),
-    1126: ('Cazadas', 'https://www.fakings.com', '/en/buscar/'),
-    1127: ('Follatelos', 'https://www.fakings.com', '/en/buscar/'),
-    1128: ('Mi Primer Anal', 'https://www.fakings.com', '/en/buscar/'),
-    1129: ('Club Maduras', 'https://www.fakings.com', '/en/buscar/'),
-    1130: ('Parejitas Libres', 'https://www.fakings.com', '/en/buscar/'),
-    1131: ('Castings de FAKings', 'https://www.fakings.com', '/en/buscar/'),
-    1132: ('Hable Con Ellas', 'https://www.fakings.com', '/en/buscar/'),
-    1133: ('Vendo a mi Novia', 'https://www.fakings.com', '/en/buscar/'),
-    1134: ('Los Cazatolas', 'https://www.fakings.com', '/en/buscar/'),
-    1135: ('Vidas Liberales', 'https://www.fakings.com', '/en/buscar/'),
-    1136: ('Muy Voyeur', 'https://www.fakings.com', '/en/buscar/'),
-    1137: ('La Escuela de FAKings', 'https://www.fakings.com', '/en/buscar/'),
-    1138: ('Porno Dolares', 'https://www.fakings.com', '/en/buscar/'),
-    1139: ('Diario de Ainara', 'https://www.fakings.com', '/en/buscar/'),
-    1140: ('Fiestas FAKings', 'https://www.fakings.com', '/en/buscar/'),
-    1141: ('Mi Primera DP', 'https://www.fakings.com', '/en/buscar/'),
-    1142: ('Inocentes 18', 'https://www.fakings.com', '/en/buscar/'),
-    1143: ('Follame Tonto', 'https://www.fakings.com', '/en/buscar/'),
-    1144: ('Pervirtiendo Parejas', 'https://www.fakings.com', '/en/buscar/'),
-    1145: ('Pollazas de Goma', 'https://www.fakings.com', '/en/buscar/'),
-    1146: ('FAKingsVR', 'https://www.fakings.com', '/en/buscar/'),
-    1147: ('El Sulfato Anatómico', 'https://www.fakings.com', '/en/buscar/'),
-    1148: ('Alumnas De Intercambio', 'https://www.fakings.com', '/en/buscar/'),
-    1149: ('Soy Webcamer', 'https://www.fakings.com', '/en/buscar/'),
-    1150: ('Videos Enfermos', 'https://www.fakings.com', '/en/buscar/'),
-    1151: ('De Paseo con FAKings', 'https://www.fakings.com', '/en/buscar/'),
-    1152: ('Clases de Mamadas', 'https://www.fakings.com', '/en/buscar/'),
-    1153: ('XXXPawn', 'http://xxxpawn.com', '/'),
-    1154: ('Black Patrol', 'http://blackpatrol.com', '/'),
-    1155: ('Putalocura', 'https://www.putalocura.com', '/buscar?q='),
-    1156: ('Mia Khalifa', 'http://miakhalifa.com', '/'),
-    1157: ('Blacks On Moms', 'http://blacksonmoms.com', '/'),
-    1158: ('Filthy Family', 'https://filthyfamily.com', '/'),
-    1159: ('Melena Maria Rya', 'https://www.melenamariarya.com', '/scene/'),
-    1160: ('Anal Overdose', 'https://analoverdose.com', '/'),
-    1161: ('Banging Beauties', 'https://www.bangingbeauties.com', '/'),
-    1162: ('Chocolate BJs', 'https://www.chocolatebjs.com', '/'),
-    1163: ('Oral Overdose', 'https://www.oraloverdose.com', '/'),
-    1164: ('Up Her Asshole', 'https://www.upherasshole.com', '/'),
-    1165: ('Perv City', 'https://www.pervcity.com', '/'),
-    1166: ('Abby Winters', 'https://www.abbywinters.com', '/'),
-    1167: ('Nude Girls', 'https://www.abbywinters.com', '/'),
-    1168: ('Mystery Shoot', 'https://www.abbywinters.com', '/'),
-    1169: ('Girl Girl', 'https://www.abbywinters.com', '/'),
-    1170: ('Video Masturbation', 'https://www.abbywinters.com', '/'),
-    1171: ('Abby Winters Behind the Scenes', 'https://www.abbywinters.com', '/'),
-    1172: ('Abby Winters Best Of', 'https://www.abbywinters.com', '/'),
-    1173: ('Guest Direction', 'https://www.abbywinters.com', '/'),
-    1174: ('Girls and Their Boys', 'https://www.abbywinters.com', '/'),
-    1175: ('Nude In Public', 'https://www.abbywinters.com', '/'),
-    1176: ('Video Of Myself at Home', 'https://www.abbywinters.com', '/'),
-    1177: ('Girls In Lingerie At Night', 'https://www.abbywinters.com', '/'),
-    1178: ('Abby Winters Podcast', 'https://www.abbywinters.com', '/'),
-    1179: ('Learn How to Get Women', 'https://www.abbywinters.com', '/'),
+    1076: ('SexMex', 'https://sexmex.xxx', '/tour/search.php?query=', 153),
+    1077: ('Explicite Art', 'https://www.explicite-art.com', '/visitor/search/videos/', 154),
+    1078: ('Black PayBack', 'https://blackpayback.com', '/tour/trailers/', 155),
+    1079: ('Sunny Lane Live', 'https://sunnylanelive.com', '/videos/', 156),
+    1080: ('FAKings', 'https://www.fakings.com', '/en/buscar/', 157),
+    1081: ('Newbies Or So They Say', 'https://www.fakings.com', '/en/buscar/', 157),
+    1082: ('Quarantine Stories', 'https://www.fakings.com', '/en/buscar/', 157),
+    1083: ('Horsedicks', 'https://www.fakings.com', '/en/buscar/', 157),
+    1084: ('FREE Pussy Day', 'https://www.fakings.com', '/en/buscar/', 157),
+    1085: ('Parejas.NET', 'https://www.fakings.com', '/en/buscar/', 157),
+    1086: ('Curvy Girls', 'https://www.fakings.com', '/en/buscar/', 157),
+    1087: ('Next Door Girl', 'https://www.fakings.com', '/en/buscar/', 157),
+    1088: ('FAKings PornStars', 'https://www.fakings.com', '/en/buscar/', 157),
+    1089: ('Busted', 'https://www.fakings.com', '/en/buscar/', 157),
+    1090: ('Fuck Them', 'https://www.fakings.com', '/en/buscar/', 157),
+    1091: ('My First Anal', 'https://www.fakings.com', '/en/buscar/', 157),
+    1092: ('MILF Club', 'https://www.fakings.com', '/en/buscar/', 157),
+    1093: ('Arnaldo Series', 'https://www.fakings.com', '/en/buscar/', 157),
+    1094: ('Free Couples', 'https://www.fakings.com', '/en/buscar/', 157),
+    1095: ('FAKings Castings', 'https://www.fakings.com', '/en/buscar/', 157),
+    1096: ('First FAKings', 'https://www.fakings.com', '/en/buscar/', 157),
+    1097: ('Talk To Them', 'https://www.fakings.com', '/en/buscar/', 157),
+    1098: ('I Sell My Girlfriend', 'https://www.fakings.com', '/en/buscar/', 157),
+    1099: ('NERD BUSTER', 'https://www.fakings.com', '/en/buscar/', 157),
+    1100: ('Swingers Life', 'https://www.fakings.com', '/en/buscar/', 157),
+    1101: ('Trans FAKings', 'https://www.fakings.com', '/en/buscar/', 157),
+    1102: ('Very Voyeur', 'https://www.fakings.com', '/en/buscar/', 157),
+    1103: ('FAKings Academy', 'https://www.fakings.com', '/en/buscar/', 157),
+    1104: ('The Naughty Bet', 'https://www.fakings.com', '/en/buscar/', 157),
+    1105: ('Ainaras Diary', 'https://www.fakings.com', '/en/buscar/', 157),
+    1106: ('FAKins Wild Party', 'https://www.fakings.com', '/en/buscar/', 157),
+    1107: ('My First DP', 'https://www.fakings.com', '/en/buscar/', 157),
+    1108: ('Innocent 18', 'https://www.fakings.com', '/en/buscar/', 157),
+    1109: ('Fuck Me Fool', 'https://www.fakings.com', '/en/buscar/', 157),
+    1110: ('Perverting Couples', 'https://www.fakings.com', '/en/buscar/', 157),
+    1111: ('Big Rubber Cocks', 'https://www.fakings.com', '/en/buscar/', 157),
+    1112: ('Virtual Reality', 'https://www.fakings.com', '/en/buscar/', 157),
+    1113: ('The Anatomical Sulphate', 'https://www.fakings.com', '/en/buscar/', 157),
+    1114: ('Exchange Student Girls', 'https://www.fakings.com', '/en/buscar/', 157),
+    1115: ('Im a Webcam Girl', 'https://www.fakings.com', '/en/buscar/', 157),
+    1116: ('Sick Videos', 'https://www.fakings.com', '/en/buscar/', 157),
+    1117: ('FAKings Slutwalk', 'https://www.fakings.com', '/en/buscar/', 157),
+    1118: ('Blowjob Lessons', 'https://www.fakings.com', '/en/buscar/', 157),
+    1119: ('Behind FAKings', 'https://www.fakings.com', '/en/buscar/', 157),
+    1120: ('Novatas O Eso Dicen', 'https://www.fakings.com', '/en/buscar/', 157),
+    1121: ('Historias de Cuarentena', 'https://www.fakings.com', '/en/buscar/', 157),
+    1122: ('Rabos de Caballo', 'https://www.fakings.com', '/en/buscar/', 157),
+    1123: ('El Día del Coño GRATIS', 'https://www.fakings.com', '/en/buscar/', 157),
+    1124: ('Chicas Curvis', 'https://www.fakings.com', '/en/buscar/', 157),
+    1125: ('Es Tu Vecina', 'https://www.fakings.com', '/en/buscar/', 157),
+    1126: ('Cazadas', 'https://www.fakings.com', '/en/buscar/', 157),
+    1127: ('Follatelos', 'https://www.fakings.com', '/en/buscar/', 157),
+    1128: ('Mi Primer Anal', 'https://www.fakings.com', '/en/buscar/', 157),
+    1129: ('Club Maduras', 'https://www.fakings.com', '/en/buscar/', 157),
+    1130: ('Parejitas Libres', 'https://www.fakings.com', '/en/buscar/', 157),
+    1131: ('Castings de FAKings', 'https://www.fakings.com', '/en/buscar/', 157),
+    1132: ('Hable Con Ellas', 'https://www.fakings.com', '/en/buscar/', 157),
+    1133: ('Vendo a mi Novia', 'https://www.fakings.com', '/en/buscar/', 157),
+    1134: ('Los Cazatolas', 'https://www.fakings.com', '/en/buscar/', 157),
+    1135: ('Vidas Liberales', 'https://www.fakings.com', '/en/buscar/', 157),
+    1136: ('Muy Voyeur', 'https://www.fakings.com', '/en/buscar/', 157),
+    1137: ('La Escuela de FAKings', 'https://www.fakings.com', '/en/buscar/', 157),
+    1138: ('Porno Dolares', 'https://www.fakings.com', '/en/buscar/', 157),
+    1139: ('Diario de Ainara', 'https://www.fakings.com', '/en/buscar/', 157),
+    1140: ('Fiestas FAKings', 'https://www.fakings.com', '/en/buscar/', 157),
+    1141: ('Mi Primera DP', 'https://www.fakings.com', '/en/buscar/', 157),
+    1142: ('Inocentes 18', 'https://www.fakings.com', '/en/buscar/', 157),
+    1143: ('Follame Tonto', 'https://www.fakings.com', '/en/buscar/', 157),
+    1144: ('Pervirtiendo Parejas', 'https://www.fakings.com', '/en/buscar/', 157),
+    1145: ('Pollazas de Goma', 'https://www.fakings.com', '/en/buscar/', 157),
+    1146: ('FAKingsVR', 'https://www.fakings.com', '/en/buscar/', 157),
+    1147: ('El Sulfato Anatómico', 'https://www.fakings.com', '/en/buscar/', 157),
+    1148: ('Alumnas De Intercambio', 'https://www.fakings.com', '/en/buscar/', 157),
+    1149: ('Soy Webcamer', 'https://www.fakings.com', '/en/buscar/', 157),
+    1150: ('Videos Enfermos', 'https://www.fakings.com', '/en/buscar/', 157),
+    1151: ('De Paseo con FAKings', 'https://www.fakings.com', '/en/buscar/', 157),
+    1152: ('Clases de Mamadas', 'https://www.fakings.com', '/en/buscar/', 157),
+    1153: ('XXXPawn', 'http://xxxpawn.com', '/', 158),
+    1154: ('Black Patrol', 'http://blackpatrol.com', '/', 158),
+    1155: ('Putalocura', 'https://www.putalocura.com', '/buscar?q=', 159),
+    1156: ('Mia Khalifa', 'http://miakhalifa.com', '/', 158),
+    1157: ('Blacks On Moms', 'http://blacksonmoms.com', '/', 158),
+    1158: ('Filthy Family', 'https://filthyfamily.com', '/', 158),
+    1159: ('Melena Maria Rya', 'https://www.melenamariarya.com', '/scene/', 160),
+    1160: ('Anal Overdose', 'https://analoverdose.com', '/', 161),
+    1161: ('Banging Beauties', 'https://www.bangingbeauties.com', '/', 161),
+    1162: ('Chocolate BJs', 'https://www.chocolatebjs.com', '/', 161),
+    1163: ('Oral Overdose', 'https://www.oraloverdose.com', '/', 161),
+    1164: ('Up Her Asshole', 'https://www.upherasshole.com', '/', 161),
+    1165: ('Perv City', 'https://www.pervcity.com', '/', 161),
+    1166: ('Abby Winters', 'https://www.abbywinters.com', '/', 162),
+    1167: ('Nude Girls', 'https://www.abbywinters.com', '/', 162),
+    1168: ('Mystery Shoot', 'https://www.abbywinters.com', '/', 162),
+    1169: ('Girl Girl', 'https://www.abbywinters.com', '/', 162),
+    1170: ('Video Masturbation', 'https://www.abbywinters.com', '/', 162),
+    1171: ('Abby Winters Behind the Scenes', 'https://www.abbywinters.com', '/', 162),
+    1172: ('Abby Winters Best Of', 'https://www.abbywinters.com', '/', 162),
+    1173: ('Guest Direction', 'https://www.abbywinters.com', '/', 162),
+    1174: ('Girls and Their Boys', 'https://www.abbywinters.com', '/', 162),
+    1175: ('Nude In Public', 'https://www.abbywinters.com', '/', 162),
+    1176: ('Video Of Myself at Home', 'https://www.abbywinters.com', '/', 162),
+    1177: ('Girls In Lingerie At Night', 'https://www.abbywinters.com', '/', 162),
+    1178: ('Abby Winters Podcast', 'https://www.abbywinters.com', '/', 162),
+    1179: ('Learn How to Get Women', 'https://www.abbywinters.com', '/', 162),
     1180: ('Tales From the Edge', 'https://thetalesfromtheedge.com', '/tour_ttfte/search.php?query=', 163),
-    1181: ('Assylum', 'https://www.assylum.com', '/'),
-    1182: ('SlaveMouth', 'https://www.slavemouth.com', '/'),
-    1183: ('DickDrainers', 'http://dickdrainers.com', '/tour/search.php?query='),
-    1184: ('ALS Angels', 'http://www.alsangels.com', '/dailyvideos.html'),
-    1185: ('Watch4Beauty', 'https://www.watch4beauty.com', '/models/'),
+    1181: ('Assylum', 'https://www.assylum.com', '/', 61),
+    1182: ('SlaveMouth', 'https://www.slavemouth.com', '/', 61),
+    1183: ('DickDrainers', 'http://dickdrainers.com', '/tour/search.php?query=', 62),
+    1184: ('ALS Angels', 'http://www.alsangels.com', '/dailyvideos.html', 63),
+    1185: ('Watch4Beauty', 'https://www.watch4beauty.com', '/models/', 64),
     1186: ('Fresh Out Of High School', 'https://freshoutofhighschool.com', '/tour_fohs/search.php?query=', 163),
     1187: ('The Tabu Tales', 'https://thetabutales.com', '/tour_tt/search.php?query=', 163),
     1188: ('Shane Diesel\'s Banging Babes', 'https://www.shanedieselsbanginbabes.com', '/tour_sdbb/search.php?query=', 163),
     1189: ('The Romance Series', 'https://theromanceseries.com', '/tour_rs/search.php?query=', 163),
-    1190: ('Femjoy', 'https://femjoy.com', '/api/v2/search/videos?include=actors%2Cdirectors&thumb_size=850x463&query='),
+    1190: ('Femjoy', 'https://femjoy.com', '/api/v2/search/videos?include=actors%2Cdirectors&thumb_size=850x463&query=', 65),
     1191: ('Lilu Moon', 'https://www.lilumoonx.com', '/sapi/', 141),
-    1192: ('Family Lust', 'https://www.familylust.com', '/models/'),
-    1193: ('Over 40 Handjobs', 'https://www.over40handjobs.com', '/models/'),
-    1194: ('Ebony Tugs', 'https://ebonytugs.com', '/models/'),
-    1195: ('Teen Tugs', 'https://teentugs.com', '/models/'),
-    1196: ('Czech Sex Casting', 'https://www.czechsexcasting.com', '/en/search-results?value='),
-    1197: ('Sex With Muslims', 'https://www.sexwithmuslims.com', '/en/search-results?value='),
-    1198: ('Sex In Taxi', 'https://www.sexintaxi.com', '/en/search-results?value='),
-    1199: ('VR Porn CZ', 'https://www.vrporncz.com', '/en/search-results?value='),
-    1200: ('Fucking Street', 'https://www.fuckingstreet.com', '/en/search-results?value='),
-    1201: ('Hunter POV', 'https://www.hunterpov.com', '/en/search-results?value='),
-    1202: ('Czech Gypsies', 'https://www.czechgypsies.com', '/en/search-results?value='),
-    1203: ('Dick On Trip', 'https://www.dickontrip.com', '/en/search-results?value='),
-    1204: ('Czech Boobs', 'https://www.czechboobs.com', '/en/search-results?value='),
-    1205: ('Czech Deviant', 'https://www.czechdeviant.com', '/en/search-results?value='),
-    1206: ('Amateri Premium', 'https://www.amateripremium.com', '/en/search-results?value='),
-    1207: ('Fucking Office', 'https://www.fuckingoffice.com', '/en/search-results?value='),
-    1208: ('Czech Executor', 'https://www.czechexecutor.com', '/en/search-results?value='),
-    1209: ('Czech Hitchhikers', 'https://www.czechhitchhikers.com', '/en/search-results?value='),
-    1210: ('Girls Take Away', 'https://www.girlstakeaway.com', '/en/search-results?value='),
-    1211: ('Czech Escort Girls', 'https://www.czechescortgirls.com', '/en/search-results?value='),
-    1212: ('Horny Doctor', 'https://www.hornydoctor.com', '/en/search-results?value='),
-    1213: ('Lady Dee', 'https://www.ladydee.com', '/en/search-results?value='),
-    1214: ('Teen From Bohemia', 'https://www.teenfrombohemia.com', '/en/search-results?value='),
-    1215: ('Czech Real Dolls', 'https://www.czechrealdolls.com', '/en/search-results?value='),
-    1216: ('Amateur From Bohemia', 'https://www.amateursfrombohemia.com', '/en/search-results?value='),
-    1217: ('Czech Anal Sex', 'https://www.czechanalsex.com', '/en/search-results?value='),
-    1218: ('Dellia Twins', 'https://www.dellaitwins.com', '/en/search-results?value='),
-    1219: ('Chloe Lamour', 'https://www.chloelamour.com', '/en/search-results?value='),
-    1220: ('Public From Bohemia', 'https://www.publicfrombohemia.com', '/en/search-results?value='),
-    1221: ('Susan Ayn', 'https://www.susanayn.com', '/en/search-results?value='),
-    1222: ('Horny Girls CZ', 'https://www.hornygirlscz.com', '/en/search-results?value='),
-    1223: ('Czech Sex Party', 'https://www.czechsexparty.com', '/en/search-results?value='),
-    1224: ('Retro Porn CZ', 'https://www.retroporncz.com', '/en/search-results?value='),
-    1225: ('Boys Fuck MILFs', 'https://www.boysfuckmilfs.com', '/en/search-results?value='),
-    1226: ('Czech Bi Porn', 'https://www.czechbiporn.com', '/en/search-results?value='),
-    1227: ('Czech Shemale', 'https://www.czechshemale.com', '/en/search-results?value='),
-    1228: ('Czech Gay City', 'https://www.czechgaycity.com', '/en/search-results?value='),
-    1229: ('Top Web Models', 'https://tour.topwebmodels.com', '/search/'),
-    1230: ('Big Gulp Girls', 'https://tour.biggulpgirls.com', '/search/'),
-    1231: ('2 Girls 1 Camera', 'https://tour.2girls1camera.com', '/search/'),
-    1232: ('Cougar Season', 'https://tour.cougarseason.com', '/search/'),
-    1233: ('Deepthroat Sirens', 'https://tour.deepthroatsirens.com', '/search/'),
-    1234: ('Facials Forever', 'https://tour.facialsforever.com', '/search/'),
-    1235: ('Pounded Petite', 'https://tour.poundedpetite.com', '/search/'),
-    1236: ('She\'s Brand New', 'https://tour.shesbrandnew.com', '/search/'),
-    1237: ('MyDirtyHobby', 'https://en.mydirtyhobby.com', '/search?searchKeyword='),
+    1192: ('Family Lust', 'https://www.familylust.com', '/models/', 66),
+    1193: ('Over 40 Handjobs', 'https://www.over40handjobs.com', '/models/', 66),
+    1194: ('Ebony Tugs', 'https://ebonytugs.com', '/models/', 66),
+    1195: ('Teen Tugs', 'https://teentugs.com', '/models/', 66),
+    1196: ('Czech Sex Casting', 'https://www.czechsexcasting.com', '/en/search-results?value=', 67),
+    1197: ('Sex With Muslims', 'https://www.sexwithmuslims.com', '/en/search-results?value=', 67),
+    1198: ('Sex In Taxi', 'https://www.sexintaxi.com', '/en/search-results?value=', 67),
+    1199: ('VR Porn CZ', 'https://www.vrporncz.com', '/en/search-results?value=', 67),
+    1200: ('Fucking Street', 'https://www.fuckingstreet.com', '/en/search-results?value=', 67),
+    1201: ('Hunter POV', 'https://www.hunterpov.com', '/en/search-results?value=', 67),
+    1202: ('Czech Gypsies', 'https://www.czechgypsies.com', '/en/search-results?value=', 67),
+    1203: ('Dick On Trip', 'https://www.dickontrip.com', '/en/search-results?value=', 67),
+    1204: ('Czech Boobs', 'https://www.czechboobs.com', '/en/search-results?value=', 67),
+    1205: ('Czech Deviant', 'https://www.czechdeviant.com', '/en/search-results?value=', 67),
+    1206: ('Amateri Premium', 'https://www.amateripremium.com', '/en/search-results?value=', 67),
+    1207: ('Fucking Office', 'https://www.fuckingoffice.com', '/en/search-results?value=', 67),
+    1208: ('Czech Executor', 'https://www.czechexecutor.com', '/en/search-results?value=', 67),
+    1209: ('Czech Hitchhikers', 'https://www.czechhitchhikers.com', '/en/search-results?value=', 67),
+    1210: ('Girls Take Away', 'https://www.girlstakeaway.com', '/en/search-results?value=', 67),
+    1211: ('Czech Escort Girls', 'https://www.czechescortgirls.com', '/en/search-results?value=', 67),
+    1212: ('Horny Doctor', 'https://www.hornydoctor.com', '/en/search-results?value=', 67),
+    1213: ('Lady Dee', 'https://www.ladydee.com', '/en/search-results?value=', 67),
+    1214: ('Teen From Bohemia', 'https://www.teenfrombohemia.com', '/en/search-results?value=', 67),
+    1215: ('Czech Real Dolls', 'https://www.czechrealdolls.com', '/en/search-results?value=', 67),
+    1216: ('Amateur From Bohemia', 'https://www.amateursfrombohemia.com', '/en/search-results?value=', 67),
+    1217: ('Czech Anal Sex', 'https://www.czechanalsex.com', '/en/search-results?value=', 67),
+    1218: ('Dellia Twins', 'https://www.dellaitwins.com', '/en/search-results?value=', 67),
+    1219: ('Chloe Lamour', 'https://www.chloelamour.com', '/en/search-results?value=', 67),
+    1220: ('Public From Bohemia', 'https://www.publicfrombohemia.com', '/en/search-results?value=', 67),
+    1221: ('Susan Ayn', 'https://www.susanayn.com', '/en/search-results?value=', 67),
+    1222: ('Horny Girls CZ', 'https://www.hornygirlscz.com', '/en/search-results?value=', 67),
+    1223: ('Czech Sex Party', 'https://www.czechsexparty.com', '/en/search-results?value=', 67),
+    1224: ('Retro Porn CZ', 'https://www.retroporncz.com', '/en/search-results?value=', 67),
+    1225: ('Boys Fuck MILFs', 'https://www.boysfuckmilfs.com', '/en/search-results?value=', 67),
+    1226: ('Czech Bi Porn', 'https://www.czechbiporn.com', '/en/search-results?value=', 67),
+    1227: ('Czech Shemale', 'https://www.czechshemale.com', '/en/search-results?value=', 67),
+    1228: ('Czech Gay City', 'https://www.czechgaycity.com', '/en/search-results?value=', 67),
+    1229: ('Top Web Models', 'https://tour.topwebmodels.com', '/search/', 68),
+    1230: ('Big Gulp Girls', 'https://tour.biggulpgirls.com', '/search/', 68),
+    1231: ('2 Girls 1 Camera', 'https://tour.2girls1camera.com', '/search/', 68),
+    1232: ('Cougar Season', 'https://tour.cougarseason.com', '/search/', 68),
+    1233: ('Deepthroat Sirens', 'https://tour.deepthroatsirens.com', '/search/', 68),
+    1234: ('Facials Forever', 'https://tour.facialsforever.com', '/search/', 68),
+    1235: ('Pounded Petite', 'https://tour.poundedpetite.com', '/search/', 68),
+    1236: ('She\'s Brand New', 'https://tour.shesbrandnew.com', '/search/', 68),
+    1237: ('MyDirtyHobby', 'https://en.mydirtyhobby.com', '/search?searchKeyword=', 69),
     1238: ('Deviante', 'https://www.deviante.com', 'https://site-api.project1service.com', 104),
     1239: ('Forgive Me Father', 'https://www.forgivemefather.com', 'https://site-api.project1service.com', 104),
     1240: ('Sex Working', 'https://www.sexworking.com', 'https://site-api.project1service.com', 104),
@@ -1824,162 +1824,3 @@ abbreviations = (
     ('^ztod ', 'ZeroTolerance '),
     ('^zzs ', 'ZZseries '),
 )
-
-
-def getProviderFromSiteNum(siteNum):
-    provider = None
-
-    if siteNum is not None:
-        # VirtualRealPorn
-        if siteNum == 342:
-            provider = siteVirtualReal
-
-        # Angela White
-        elif siteNum == 991:
-            provider = siteAngelaWhite
-
-        # Cumbizz
-        elif siteNum == 992:
-            provider = siteCumbizz
-
-        # Pornstar Platinum
-        elif siteNum == 993:
-            provider = sitePornstarPlatinum
-
-        # Woodman Casting X
-        elif siteNum == 994:
-            provider = siteWoodmanCastingX
-
-        # ScoreGroup
-        elif (1012 <= siteNum <= 1021):
-            provider = networkScoreGroup
-
-        # TwoTGirls
-        elif siteNum == 1022:
-            provider = siteTwoTGirls
-
-        # Sicflics
-        elif siteNum == 1023:
-            provider = siteSicflics
-
-        # Culioneros
-        elif (1040 <= siteNum <= 1050):
-            provider = siteCulioneros
-
-        # PornWorld
-        elif siteNum == 332 or (433 <= siteNum <= 439) or siteNum == 1057:
-            provider = networkPornWorld
-
-        # MormonGirlz
-        elif siteNum == 1065:
-            provider = siteMormonGirlz
-
-        # PurgatoryX
-        elif siteNum == 1066:
-            provider = sitePurgatoryX
-
-        # Plumper Pass
-        elif siteNum == 1067:
-            provider = sitePlumperPass
-
-        # FTV
-        elif (1068 <= siteNum <= 1069):
-            provider = networkFTV
-
-        # Jacquie & Michel
-        elif siteNum == 1070:
-            provider = siteJacquieEtMichel
-
-        # Data18 Content
-        elif siteNum == 1071:
-            provider = siteData18Content
-
-        # Penthouse Gold
-        elif siteNum == 1072:
-            provider = sitePenthouseGold
-
-        # Data18 Movies
-        elif siteNum == 1073:
-            provider = siteData18Movies
-
-        # WakeUpNFuck
-        elif siteNum == 1074:
-            provider = siteWUNF
-
-        # SexMex
-        elif siteNum == 1076:
-            provider = siteSexMex
-
-        # Explicite Art
-        elif siteNum == 1077:
-            provider = siteExpliciteArt
-
-        # Black PayBack
-        elif siteNum == 1078:
-            provider = siteBlackPayBack
-
-        # Sunny Lane Live
-        elif siteNum == 1079:
-            provider = siteSunnyLaneLive
-
-        # FAKings
-        elif (1080 <= siteNum <= 1152):
-            provider = networkFAKings
-
-        # Other BangBros Sites
-        elif (1153 <= siteNum <= 1154) or (1156 <= siteNum <= 1158):
-            provider = networkBangBrosOther
-
-        # Putalocura
-        elif siteNum == 1155:
-            provider = sitePutalocura
-
-        # Melena Maria Rya
-        elif siteNum == 1159:
-            provider = siteMelenaMariaRya
-
-        # PervCity
-        elif (1160 <= siteNum <= 1165):
-            provider = networkPervCity
-
-        # Abby Winters
-        elif (1166 <= siteNum <= 1179):
-            provider = networkAbbyWinters
-
-        # Deranged Dollars
-        elif (1181 <= siteNum <= 1182):
-            provider = networkDerangedDollars
-
-        # DickDrainers
-        elif siteNum == 1183:
-            provider = siteDickDrainers
-
-        # ALS Angels
-        elif siteNum == 1184:
-            provider = siteAlsAngels
-
-        # Watch4Beauty
-        elif siteNum == 1185:
-            provider = siteWatch4Beauty
-
-        # Femjoy
-        elif siteNum == 1190:
-            provider = siteFemjoy
-
-        # Thick Cash
-        elif (1192 <= siteNum <= 1195):
-            provider = networkThickCash
-
-        # PornCZ
-        elif (1196 <= siteNum <= 1228):
-            provider = networkPornCZ
-
-        # Top Web Models
-        elif (1229 <= siteNum <= 1236):
-            provider = networkTopWebModels
-
-        # MyDirtyHobby
-        elif siteNum == 1237:
-            provider = siteMyDirtyHobby
-
-    return provider
