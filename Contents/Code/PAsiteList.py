@@ -1585,6 +1585,9 @@ searchSites = {
     1251: ('Not My Grandpa', 'https://www.notmygrandpa.com', '/movies', 105),
     1252: ('AmateurBoxxx', 'https://tour.amateurboxxx.com', '/search.php?query=', 40),
     1253: ('AnalOnly', 'https://tour.analonly.com', '/view/', 11),
+    1254: ('Exposed Whores', 'https://exposedwhores.com/new-tour', '/search.php?query=', 40),
+    1255: ('She Seduced Me', 'https://www.sheseducedme.com', '/search.php?query=', 40),
+    1256: ('Family Swap', 'https://nubiles-porn.com', '/video/website/52/', 26),
 }
 
 abbreviations = (
@@ -1821,6 +1824,7 @@ abbreviations = (
     ('^ztod ', 'ZeroTolerance '),
     ('^zzs ', 'ZZseries '),
 )
+
 
 def getProviderFromSiteNum(siteNum):
     provider = None
