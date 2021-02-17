@@ -29,16 +29,24 @@ def getSearchSearchURL(siteNum):
 
 
 def getProviderId(siteNum):
-    return PAsiteList.searchSites[siteNum][4] if len(PAsiteList.searchSites[siteNum]) > 3 else None
+    providerId = None
+    if PAsiteList.searchSites[siteNum]:
+        providerId = PAsiteList.searchSites[siteNum][4]
+
+    return providerId
 
 
 def getProviderById(providerId):
-    return PAsiteList.providers[providerId]
+    provider = None
+    if providerId is not None:
+        provider = PAsiteList.providers[providerId]
+
+    return provider
 
 
 def getProvider(siteNum):
     providerId = getProviderId(siteNum)
-    return getProviderById(providerId) if not None else PAsiteList.getProviderFromSiteNum(siteNum)
+    return getProviderById(providerId)
 
 
 def getSiteNumByFilter(searchFilter):
