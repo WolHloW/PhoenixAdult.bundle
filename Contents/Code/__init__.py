@@ -96,7 +96,7 @@ class PhoenixAdultAgent(Agent.Movies):
                     if providerName != 'networkMetadataAPI' and (not results or 100 != max([result.score for result in results])):
                         siteNum = PAsearchSites.getSiteNumByFilter('MetadataAPI')
                         if siteNum is not None:
-                            provider = PAsiteList.getProviderBySiteNum(siteNum)
+                            provider = PAsearchSites.getProviderBySiteNum(siteNum)
                             if provider is not None:
                                 providerName = getattr(provider, '__name__')
                                 Log('Provider: %s' % providerName)
