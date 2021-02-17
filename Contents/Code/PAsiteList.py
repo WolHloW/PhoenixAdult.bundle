@@ -1244,7 +1244,7 @@ searchSites = {
     910: ('Give Me Pink', 'https://sapphix.com', '/movies?site[]=gmp&q=', 16),
     911: ('Fist Flush', 'https://sapphix.com', '/movies?site[]=ff&q=', 16),
     912: ('JavBus', 'https://www.javbus.com', '/en/', 119),
-    913: ('Hucows', 'https://www.hucows.com', '/'120),
+    913: ('Hucows', 'https://www.hucows.com', '/', 120),
     914: ('Mile High Media', 'https://milehighmedia.com', 'https://site-api.project1service.com', 104),
     915: ('Mile High', 'https://milehighmedia.com', 'https://site-api.project1service.com', 104),
     916: ('Why Not Bi', 'https://whynotbi.com', 'https://site-api.project1service.com', 104),
