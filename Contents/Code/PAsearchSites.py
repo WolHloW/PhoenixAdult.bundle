@@ -31,7 +31,7 @@ def getSearchSearchURL(siteNum):
 def getProviderId(siteNum):
     providerId = None
     if PAsiteList.searchSites[siteNum]:
-        providerId = PAsiteList.searchSites[siteNum][4]
+        providerId = PAsiteList.searchSites[siteNum][3]
 
     return providerId
 
