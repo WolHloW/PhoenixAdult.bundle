@@ -1128,7 +1128,7 @@ searchSites = {
     795: ('GirlCore', 'https://www.girlsway.com', '/en/video/1/1/', 106),
     796: ('Moms On Moms', 'https://www.girlsway.com', '/en/video/1/1/', 106),
     797: ('We Like Girls', 'https://www.girlsway.com', '/en/video/1/1/', 106),
-    798: ('Lil Humpers', 'https://www.lilhumpers.com', 'https://site-api.project1service.com', 104),
+    798: ('Lil Humpers', 'https://www.realitykings.com', 'https://site-api.project1service.com', 104),
     799: ('Bellesa Films', 'https://www.bellesafilms.com', 'https://site-api.project1service.com', 104),
     800: ('ClubSeventeen', 'https://www.clubseventeen.com', '/video.php?slug=', 85),
     801: ('Elegant Angel', 'https://www.elegantangel.com', '/Search?q=', 86),
