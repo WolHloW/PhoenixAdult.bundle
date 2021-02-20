@@ -116,7 +116,6 @@ import siteBoxTruckSex
 import siteAussieAss
 import network5Kporn
 import networkTeenCoreClub
-import networkExploitedX
 import siteDesperateAmateurs
 import networkDirtyHardDrive
 import siteMeloneChallenge
@@ -291,7 +290,7 @@ providers = {
     125: siteAussieAss,
     126: network5Kporn,
     127: networkTeenCoreClub,
-    128: networkExploitedX,
+    #128: networkExploitedX,
     129: siteDesperateAmateurs,
     130: networkDirtyHardDrive,
     131: siteMeloneChallenge,
@@ -895,8 +894,8 @@ searchSites = {
     561: ('Joe Perv', 'https://www.joeperv.com', '/search.php?query=', 27),
     562: ('HD 19', 'https://www.hd19.com', '/search.php?query=', 27),
     563: ('Bella HD', 'https://www.bellahd.com', '/search.php?query=', 27),
-    564: ('Amateur Allure', 'https://www.amateurallure.com', '/tour/search.php?st=advanced&cat%5B%5D=5&qany=', 28),
-    565: ('Swallow Salon', 'https://www.swallowsalon.com', '/search.php?st=advanced&cat%5B%5D=5&format=h&qany=', 28),
+    564: ('Amateur Allure', 'https://www.amateurallure.com', '/tour/search.php?st=advanced&cat[]=5&qany=', 28),
+    565: ('Swallow Salon', 'https://www.swallowsalon.com', '/search.php?st=advanced&cat[]=5&qany=', 28),
     566: ('Black Valley Girls', 'https://www.blackvalleygirls.com', '/movies', 105),
     567: ('Sis Loves Me', 'https://www.sislovesme.com', '/movies', 105),
     568: ('Manyvids', 'https://www.manyvids.com', '/video/', 29),
@@ -1521,7 +1520,7 @@ searchSites = {
     1187: ('The Tabu Tales', 'https://thetabutales.com', '/tour_tt/search.php?query=', 163),
     1188: ('Shane Diesel\'s Banging Babes', 'https://www.shanedieselsbanginbabes.com', '/tour_sdbb/search.php?query=', 163),
     1189: ('The Romance Series', 'https://theromanceseries.com', '/tour_rs/search.php?query=', 163),
-    1190: ('Femjoy', 'https://femjoy.com', '/api/v2/search/videos?include=actors%2Cdirectors&thumb_size=850x463&query=', 65),
+    1190: ('Femjoy', 'https://femjoy.com', '/api/v2/search/videos?include=actors,directors&thumb_size=850x463&query=', 65),
     1191: ('Lilu Moon', 'https://www.lilumoonx.com', '/sapi/', 141),
     1192: ('Family Lust', 'https://www.familylust.com', '/models/', 66),
     1193: ('Over 40 Handjobs', 'https://www.over40handjobs.com', '/models/', 66),
