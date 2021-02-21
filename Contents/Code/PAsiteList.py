@@ -1587,6 +1587,12 @@ searchSites = {
     1254: ('Exposed Whores', 'https://exposedwhores.com/new-tour', '/search.php?query=', 40),
     1255: ('She Seduced Me', 'https://www.sheseducedme.com', '/search.php?query=', 40),
     1256: ('Family Swap', 'https://nubiles-porn.com', '/video/website/52/', 26),
+    1257: ('Filthy POV', 'https://www.filthykings.com', '/MemberSceneSearch?q=', 94),
+    1258: ('Filthy Massage', 'https://www.filthykings.com', '/MemberSceneSearch?q=', 94),
+    1259: ('Filthy Taboo', 'https://www.filthykings.com', '/MemberSceneSearch?q=', 94),
+    1260: ('Night Creep', 'https://www.filthykings.com', '/MemberSceneSearch?q=', 94),
+    1261: ('Filthy Blowjobs', 'https://www.filthykings.com', '/MemberSceneSearch?q=', 94),
+    1262: ('Filthy Newbies', 'https://www.filthykings.com', '/MemberSceneSearch?q=', 94),
 }
 
 abbreviations = (
