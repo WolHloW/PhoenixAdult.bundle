@@ -48,6 +48,38 @@ def getProviderBySiteNum(siteNum):
     providerId = getProviderId(siteNum)
     return getProviderById(providerId)
 
+def getProviderBySiteNum2(siteNum):
+    for provider, sites in PAsiteList.searchSiteProviders.items():
+        if siteNum in sites:
+            return provider
+
+    return None
+
+def getSearchSettingsBySiteNum(siteNum):
+    for provider, sites in PAsiteList.searchSiteProviders:
+        if siteNum in sites:
+            return {'provider': provider, 'searchSettings': sites[siteNum]}
+
+    return None
+
+def getSiteNumByFilter2(searchFilter):
+    searchResults = []
+    searchFilter = re.sub(r'[^a-z0-9]', '', searchFilter.lower())
+    for provider, sites in PAsiteList.searchSiteProviders:
+        for siteNum, searchSettings in sites:
+            siteName = searchSettings[0]
+            if siteName:
+                siteName = re.sub(r'[^a-z0-9]', '', siteName.lower())
+
+                if searchFilter.startswith(siteName):
+                    searchResults.append((siteNum, siteName))
+
+                if searchResults:
+                    from operator import itemgetter
+
+                    return max(searchResults, key=itemgetter(1))[0]
+
+    return None
 
 def getSiteNumByFilter(searchFilter):
     searchResults = []

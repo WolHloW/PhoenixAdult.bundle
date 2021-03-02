@@ -329,6 +329,16 @@ providers = {
     164: addActors,
 }
 
+searchSiteProviders = {
+    networkStrike3: {
+        0: ('BlackedRaw', 'https://www.blackedraw.com', '/api'),
+        1: ('Blacked', 'https://www.blacked.com', '/api'),
+    },
+    network1service: {
+        2: ('Brazzers', 'http://www.brazzers.com', 'https://site-api.project1service.com'),
+    },
+}
+
 searchSites = {
     0: ('BlackedRaw', 'https://www.blackedraw.com', '/api', 24),
     1: ('Blacked', 'https://www.blacked.com', '/api', 24),
@@ -1732,7 +1742,7 @@ abbreviations = (
     ('^mlib ', 'MilfsLikeItBig '),
     ('^mlt ', 'MomsLickTeens '),
     ('^mmgs ', 'MommysGirl '),
-    ('^mmts ', 'MomsTeachSex '),
+    ('^mts ', 'MomsTeachSex '),
     ('^mnm ', 'MyNaughtyMassage '),
     ('^mom ', 'MomXXX '),
     ('^mpov ', 'MrPOV '),
@@ -1819,6 +1829,7 @@ abbreviations = (
     ('^wa ', 'WhippedAss '),
     ('^wcx', 'WoodmanCastingX'),
     ('^wfbg ', 'WeFuckBlackGirls '),
+    ('^wgp', 'WhenGirlsPlay '),
     ('^wkp ', 'Wicked '),
     ('^wlt ', 'WeLiveTogether '),
     ('^woc ', 'WildOnCam '),
