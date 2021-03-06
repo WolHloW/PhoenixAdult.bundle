@@ -1603,6 +1603,10 @@ searchSites = {
     1260: ('Night Creep', 'https://www.filthykings.com', '/MemberSceneSearch?q=', 94),
     1261: ('Filthy Blowjobs', 'https://www.filthykings.com', '/MemberSceneSearch?q=', 94),
     1262: ('Filthy Newbies', 'https://www.filthykings.com', '/MemberSceneSearch?q=', 94),
+    1263: ('Anal4K', 'https://www.anal4k.com', '/video/', 23),
+    1264: ('House of Fyre', 'https://www.houseofyre.com', '/search.php?query=', 40),
+    1265: ('Philavise', 'https://www.philavise.com', '/search.php?query=', 40),
+    1266: ('FamilyXXX', 'http://www.familyxxx.com', '/tour_famxxx/', 7),
 }
 
 abbreviations = (
@@ -1673,6 +1677,7 @@ abbreviations = (
     ('^esp ', 'EuroSexParties '),
     ('^ete ', 'EuroTeenErotica '),
     ('^ext ', 'ExxxtraSmall '),
+    ('^family ', 'Taboo '),
     ('^fams ', 'FamilyStrokes '),
     ('^faq ', 'FirstAnalQuest '),
     ('^fds ', 'FakeDrivingSchool '),
@@ -1699,6 +1704,7 @@ abbreviations = (
     ('^hegre-art ', 'Hegre '),
     ('^hoh ', 'HandsOnHardcore '),
     ('^hotab ', 'HouseofTaboo '),
+    ('^houseofyre ', 'House of Fyre '),
     ('^hr ', 'HollyRandall '),
     ('^ht ', 'Hogtied '),
     ('^hustl3r ', 'Hustler '),
