@@ -329,6 +329,8 @@ providers = {
     162: networkAbbyWinters,
     163: siteNewSensationsOther,
     164: addActors,
+    165: networkCouplesCinema,
+    166: siteJVRPorn,
 }
 
 searchSiteProviders = {
@@ -1628,6 +1630,7 @@ searchSites = {
     1283: ('Morgana Muses', 'https://www.couplescinema.com', '/search/videos?s=', 165),
     1284: ('Thousand Faces Films', 'https://www.couplescinema.com', '/search/videos?s=', 165),
     1285: ('The Lifestyle', 'https://www.couplescinema.com', '/search/videos?s=', 165),
+    1286: ('JVR Porn', 'https://jvrporn.com', '/video/', 166),
 }
 
 abbreviations = (
