@@ -161,6 +161,8 @@ import networkPornCZ
 import networkTopWebModels
 import siteMyDirtyHobby
 import networkMetadataAPI
+import networkCouplesCinema
+import siteJVRPorn
 
 providers = {
     1: siteNaughtyAmerica,
@@ -1607,6 +1609,25 @@ searchSites = {
     1264: ('House of Fyre', 'https://www.houseofyre.com', '/search.php?query=', 40),
     1265: ('Philavise', 'https://www.philavise.com', '/search.php?query=', 40),
     1266: ('FamilyXXX', 'http://www.familyxxx.com', '/tour_famxxx/', 7),
+    1267: ('Couple Fantasies', 'https://www.couplescinema.com', '/search/videos?s=', 165),
+    1268: ('Verso Cinema', 'https://www.couplescinema.com', '/search/videos?s=', 165),
+    1269: ('Sex School', 'https://www.couplescinema.com', '/search/videos?s=', 165),
+    1270: ('JoyBear', 'https://www.couplescinema.com', '/search/videos?s=', 165),
+    1271: ('Common Sensual', 'https://www.couplescinema.com', '/search/videos?s=', 165),
+    1272: ('Gentle Desire', 'https://www.couplescinema.com', '/search/videos?s=', 165),
+    1273: ('Petra Joy', 'https://www.couplescinema.com', '/search/videos?s=', 165),
+    1274: ('Madison Young', 'https://www.couplescinema.com', '/search/videos?s=', 165),
+    1275: ('Light Southern Cinema', 'https://www.couplescinema.com', '/search/videos?s=', 165),
+    1276: ('Pink and Whit Productions', 'https://www.couplescinema.com', '/search/videos?s=', 165),
+    1277: ('Signe Baumane', 'https://www.couplescinema.com', '/search/videos?s=', 165),
+    1278: ('Maria Beatty', 'https://www.couplescinema.com', '/search/videos?s=', 165),
+    1279: ('Spark Erotic', 'https://www.couplescinema.com', '/search/videos?s=', 165),
+    1280: ('Foxhouse Films', 'https://www.couplescinema.com', '/search/videos?s=', 165),
+    1281: ('Mario Ancewicz', 'https://www.couplescinema.com', '/search/videos?s=', 165),
+    1282: ('Ninja', 'https://www.couplescinema.com', '/search/videos?s=', 165),
+    1283: ('Morgana Muses', 'https://www.couplescinema.com', '/search/videos?s=', 165),
+    1284: ('Thousand Faces Films', 'https://www.couplescinema.com', '/search/videos?s=', 165),
+    1285: ('The Lifestyle', 'https://www.couplescinema.com', '/search/videos?s=', 165),
 }
 
 abbreviations = (
