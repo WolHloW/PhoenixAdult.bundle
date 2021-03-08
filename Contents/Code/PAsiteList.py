@@ -1671,6 +1671,7 @@ searchSites = {
     1324: ('Kayla Paige Live', 'https://kaylapaigelive.com', '/videos/', 121),
     1325: ('Women By Julia Ann', 'https://womenbyjuliaann.com', '/videos/', 121),
     1326: ('VNA Live', 'https://vnalive.com', '/videos/', 121),
+    1327: ('Lauren Phillips', 'https://laurenphillips.com', '/search.php?query=', 40)
 }
 
 abbreviations = (
