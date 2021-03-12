@@ -73,7 +73,7 @@ import siteClubFilly
 import networkIntersec
 import networkCherryPimps
 import site18OnlyGirls
-import siteClubSeventeen
+import siteClubSweethearts
 import siteElegantAngel
 import siteReidMyLips
 import sitePlayboyPlus
@@ -1729,7 +1729,7 @@ abbreviations = (
     ('^caughtfapping', 'AdultTime'),
     ('^cfnm ', 'ClothedFemaleNudeMale '),
     ('^clip ', 'LegalPorno '),
-    ('^clubsweethearts ', 'ClubSeventeen '),
+    ('^clubseventeen ', 'ClubSweethearts '),
     ('^cps ', 'CherryPimps '),
     ('^css ', 'CzechStreets '),
     ('^cuf ', 'CumFiesta '),
