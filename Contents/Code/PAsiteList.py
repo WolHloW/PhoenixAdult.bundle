@@ -1671,7 +1671,8 @@ searchSites = {
     1324: ('Kayla Paige Live', 'https://kaylapaigelive.com', '/videos/', 121),
     1325: ('Women By Julia Ann', 'https://womenbyjuliaann.com', '/videos/', 121),
     1326: ('VNA Live', 'https://vnalive.com', '/videos/', 121),
-    1327: ('Lauren Phillips', 'https://laurenphillips.com', '/search.php?query=', 40)
+    1327: ('Lauren Phillips', 'https://laurenphillips.com', '/search.php?query=', 40),
+    1328: ('Milfed', 'https://milfed.com/', 'https://site-api.project1service.com', 104),
 }
 
 abbreviations = (
@@ -1780,7 +1781,7 @@ abbreviations = (
     ('^hart ', 'Hegre '),
     ('^hcm ', 'HotCrazyMess '),
     ('^hegre-art ', 'Hegre '),
-    ('^hlaf ', 'Hot Legs and Feet ')
+    ('^hlaf ', 'Hot Legs and Feet '),
     ('^hoh ', 'HandsOnHardcore '),
     ('^hotab ', 'HouseofTaboo '),
     ('^houseofyre ', 'House of Fyre '),
